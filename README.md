@@ -1,5 +1,4 @@
 # RecipeApp
-Demo iOS app for a talk at the Paris Android User Group
 
 ## Purpose of the app
 This iOS app is a recipe application. You can search a term, then choose a recipe to see its instructions.
